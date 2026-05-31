@@ -93,9 +93,6 @@ git clone https://github.com/LemmingTee/used-car-pricing-analysis.git
 cd used-car-pricing-analysis
 jupyter notebook used_car_pricing_analysis_using_anova.ipynb
 ```
-
-> **Note:** Update the dataset path in the notebook to match your local file location before running.
-
 ---
 
 ##  Repository Structure
